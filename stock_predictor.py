@@ -22,10 +22,9 @@ import streamlit as st
 
 st.sidebar.image('st_logo.png')
 st.sidebar.write("👋 Hi, I’m Shishir! I've always loved tinkering with things.")
-st.sidebar.write("🌱 I’m a Data Scientist at Intel and a Masters in Data Science Student at Northwestern.")
+st.sidebar.write("🌱 I’m a Data Scientist at Intel. I am also a Masters in Data Science Student at Northwestern.")
 st.sidebar.write("📫 Reach me @ shishir.rd@gmail.com")
 st.sidebar.write("My Github is https://github.com/shishirrd")
-
 
 #Data Source
 import yfinance as yf
